@@ -1,26 +1,18 @@
-# JavaScript Loops Classwork
-
+# JavaScript Loops Classwork (ALTERNATE BETWEEN FOR & WHILE LOOP PROBLEMS)
 ## For Loops
-
 ### Exercise 1:
 - Use a for loop to print numbers -3 through 8
-
 ### Exercise 2:
 - Use a for loop to count from -5 to 5 three times in a row
-
 ### Exercise 3:
 - Use a for loop to print only even numbers from -50 to 50
-
 ### Exercise 4:
 Start with the following array:
 `let high_scores = [2112, 1024, 9000, 9001, 7200, 2600, 10000]`
-
 - Use a for loop to print each score
 - If the score is greater than 9000 print the score and the text `OVER 9000!`
 Expected Output:
-```
 HIGH SCORES
-
 2112
 1024
 9000
@@ -28,7 +20,6 @@ HIGH SCORES
 7200
 2600
 10000 OVER 9000!
-```
 
 ### Exercise 5:
 - Prompt the user to enter a number 
